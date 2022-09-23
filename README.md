@@ -24,6 +24,26 @@ Linear Gradients
 ```
 expo install expo-linear-gradient
 ```
+React Navigation
+```
+npm install @react-navigation/native
+```
+Dependências React Navigation
+```
+expo install react-native-screens
+```
+Native Stack Navigator
+```
+npm install @react-navigation/native-stack
+```
+Phosphor React Native Icons
+```
+npm install --save phosphor-react-native
+```
+React Native SVG
+```
+expo install react-native-svg
+```
 
 ### Documentações
 - [React Native](https://reactnative.dev/docs/getting-started)
